@@ -1,9 +1,19 @@
 ## Hi there, I'm Nisa 👋
 
+I'm a passionate **UI/UX & Graphic Designer** who also loves dabbling in code and creating intuitive digital experience.
+
+## 🚀 Skills
+- 🎨 UI/UX Design (Figma)
+- 🖌 Graphic Design (Canva)
+- 💻 Front-End Development (HTML, CSS, JavaScript)
+- 🎶 Music Creation (BandLab)
+
+## 📚 Currently Learning
+- 💡 JavaScript Code
+- 🎵 Basics of music production for game
+- 🧩 Game UI Design for educational apps
 <!--
 **fhrnisa/fhrnisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
