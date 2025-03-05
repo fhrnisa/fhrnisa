@@ -4,7 +4,6 @@ I'm a passionate **UI/UX & Graphic Designer** who also loves dabbling in code an
 
 ## 🚀 Skills
 - 🎨 UI/UX Design (Figma)
-- 🖌 Graphic Design (Canva)
 - 💻 Front-End Development (HTML, CSS, JavaScript)
 - 🎶 Music Creation (BandLab)
 
