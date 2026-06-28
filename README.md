@@ -1,18 +1,37 @@
-## Hi there, I'm Nisa 👋
+# Hi there, I'm Nisa 👋
 
-I'm a passionate **UI/UX & Graphic Designer** who also loves dabbling in code and creating intuitive digital experience.
+I'm a **UI/UX Designer** from Indonesia who enjoys designing digital products that are simple, accessible, and user-centered. I love turning ideas into intuitive experiences through research, wireframes, prototypes, and visual design.
+
+Besides designing, I also enjoy exploring front-end development, AI-powered tools, and creating music for games as creative hobbies.
 
 ## 🚀 Skills
-- 🎨 UI/UX Design (Figma)
-- 💻 Front-End Development (HTML, CSS, JavaScript)
-- 🎶 Music Creation (BandLab)
+
+* 🎨 UI/UX Design (Figma)
+* 🧠 UX Research & Usability Evaluation
+* 📐 Wireframing & Prototyping
+* 🎯 Design System & Components
+* 💻 Front-End Development (HTML, CSS, Tailwind CSS, JavaScript)
+* 🎨 Graphic Design
 
 ## 📚 Currently Learning
-- 💡 JavaScript Code
-- 🎵 Basics of music production for game
-- 🧩 Game UI Design for educational apps
 
-## 🌐 My Portfolio
-This is my personal portfolio website built to showcase my projects, skills, and experiences.
-It serves as a central place where you can explore my work, learn more about me, and get in touch.
-- 👉 <a href="https://fhrnisa.github.io/Portfolio-Nisa/">View Nisa's Portfolio ↗</a>
+* 💡 Advanced UX Research & Design Thinking
+* 🎬 Motion Design for UI
+* 🤖 AI for Design & Productivity
+* 🎵 Music Production for Games
+
+## 🌐 Portfolio
+
+Explore my selected projects, case studies, and design process here:
+
+👉 **Portfolio:** https://fahrunnisa.framer.website/
+
+## 🎯 Current Interests
+
+* User Experience Design
+* Educational Technology
+* AI-Powered Applications
+* Accessibility
+* Game UI Design
+
+Thanks for stopping by! Feel free to explore my projects and connect with me.
