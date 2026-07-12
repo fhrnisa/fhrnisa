@@ -32,6 +32,6 @@ Explore my selected projects, case studies, and design process here:
 * Educational Technology
 * AI-Powered Applications
 * Accessibility
-* Game UI Design
+* React JS
 
 Thanks for stopping by! Feel free to explore my projects and connect with me.
