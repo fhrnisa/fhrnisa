@@ -18,13 +18,13 @@ Besides designing, I also enjoy exploring front-end development, AI-powered tool
 * 💡 Advanced UX Research & Design Thinking
 * 🎬 Motion Design for UI
 * 🤖 AI for Design & Productivity
-* 🎵 Music Production for Games
+* 💻 React
 
 ## 🌐 Portfolio
 
 Explore my selected projects, case studies, and design process here:
 
-👉 **Portfolio:** https://fahrunnisa.framer.website/
+👉 **Portfolio:** https://fahrunnisa-portfolio.vercel.app/
 
 ## 🎯 Current Interests
 
